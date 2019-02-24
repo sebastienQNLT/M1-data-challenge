@@ -1,0 +1,16 @@
+Quelques ressources utiles :
+- carto
+https://www.ideeslibres.org/Accidents/Gravite/#bbox=41.1290213474951,-7.80029296875,51.34433866059924,22.21435546875&lgd=1
+https://www.globalmapsolution.com/carte-du-mois/accidentologie
+https://freakonometrics.hypotheses.org/49959
+
+-dataviz :
+http://data.timthee.fr/2017/11/16/la-meteo-des-accidents/
+https://medium.com/@neveldo/les-accidents-de-la-circulation-de-2005-%C3%A0-2016-visualis%C3%A9s-avec-r-b3e2f25266d9
+https://freakonometrics.hypotheses.org/20667
+
+- divers :
+https://freakonometrics.hypotheses.org/2104
+https://freakonometrics.hypotheses.org/78
+
+
